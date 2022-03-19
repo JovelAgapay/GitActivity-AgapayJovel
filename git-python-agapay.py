@@ -1,3 +1,6 @@
 print ("Jovel M. Agapay")
 print ("Dawis Gasan Marinduque")
 print("July 15, 2001")
+print ("Marinduque State College")
+print ("Bachelor of Science in Information Technology(BSIT)")
+print ("2F")
